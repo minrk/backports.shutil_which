@@ -1,3 +1,9 @@
+This repo is Copyright (c) 2016 Min RK, and licensed under the MIT license.
+
+Since the source of `shutil.which` is a backport from a Python standard library module,
+the code itself is licensed under the Python Software Foundation (PSF) License.
+The backporting part (setup.py, etc.) are MIT.
+
 The MIT License (MIT)
 
 Copyright (c) 2016 Min RK
