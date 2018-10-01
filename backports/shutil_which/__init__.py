@@ -8,3 +8,5 @@ from .shutil_which import which
 
 
 __all__ = ['which']
+
+__version__ = '3.5.1'
