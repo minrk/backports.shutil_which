@@ -20,7 +20,10 @@ setup_args = dict(
     description="Backport of shutil.which from Python 3.3",
     long_description=long_description,
     url="https://github.com/minrk/backports.shutil_which",
-    packages=['backports'],
+    packages=[
+        'backports',
+        'backports.shutil_which',
+    ],
     license="Python Software Foundation License",
     cmdclass={},
     classifiers=[
