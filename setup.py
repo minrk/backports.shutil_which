@@ -14,7 +14,7 @@ Use Python 3 shutil.which on Python 2::
 
 setup_args = dict(
     name='backports.shutil_which',
-    version='3.5.1',
+    version='3.5.2',
     author="Min RK",
     author_email="benjaminrk@gmail.com",
     description="Backport of shutil.which from Python 3.3",
